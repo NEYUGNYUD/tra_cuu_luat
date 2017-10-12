@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row foot_row1">
             <div class="col-sm-6">
-                <h1><strong>SunShineTour</strong> - Best Choice, Best Price</h1>
+                <h1><strong>Law For Everyone</strong></h1>
                 <div class="link_icon">
                     <ul class="list-inline">
                         <li class="fb"><a href="" title="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -14,12 +14,12 @@
                 </div>
             </div>
             <div class="col-sm-4 col-sm-offset-2">
-                <h3>Đăng ký nhận ngay ưu đãi!</h3>
+                <h3>Thông tin website!</h3>
                 <form class="form-horizontal">
                     <div class="input-group">
-                        <input type="text" class="form-control" placeholder="Nhập email đăng ký">
+                        <!-- <input type="text" class="form-control" placeholder="Nhập email đăng ký"> -->
                         <span class="input-group-btn">
-                            <button class="btn btn_slide" type="submit">Đăng ký</button>
+                            <button class="btn btn_slide">SearchLaw.dev</button>
                         </span>
                     </div>
                 </form>
@@ -28,18 +28,14 @@
         <div class="row foot_row2">
             <div class="col-sm-4">
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-map-marker" aria-hidden="true"></i> &nbsp; P.2409, CT5A khu đô thị Xala, Hà Đông, Hà Nội</li>
+                    <li><i class="fa fa-map-marker" aria-hidden="true"></i> &nbsp; Số 141, đường Chiến Thắng, Tân Triều, Thanh Trì, Hà Nội</li>
                     <li><i class="fa fa-volume-control-phone" aria-hidden="true"></i> &nbsp; 0462.539.549</li>
-                    <li><i class="fa fa-envelope-o" aria-hidden="true"></i> &nbsp; hotel365vn@gmail.com</li>
+                    <li><i class="fa fa-envelope-o" aria-hidden="true"></i> &nbsp; law@gmail.com</li>
                     <li></li>
                 </ul>
             </div>
             <div class="col-sm-4">
-                <h4>Tải phiên bản cho di động</h4>
-                <ul class="list-inline">
-                    <li><a href=""><img src="assets/images/android.png" width="150" alt="Phiên bản Adroid"/></a></li>
-                    <li><a href=""><img src="assets/images/IOS.png" width="150" alt="Phiên bản IOS"/></a></li>
-                </ul>
+
             </div>
             <div class="col-sm-4">
                 <ul class="list-unstyled col-1">
